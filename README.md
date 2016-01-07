@@ -1,2 +1,2 @@
 # FreeE
-FreeE is desktop environment for Raspberry PI 2 model B 
+FreeE is a desktop environment for Raspberry PI 2 model B 
